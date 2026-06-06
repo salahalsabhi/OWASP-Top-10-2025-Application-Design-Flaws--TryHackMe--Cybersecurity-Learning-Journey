@@ -118,7 +118,8 @@ Most vulnerabilities exploited were not complex coding mistakes, but **fundament
 Understanding design flaws is essential for both offensive security (pentesting) and defensive development (secure coding).
 
 ---
-LinkedIn: [
+LinkedIn: [https://www.linkedin.com/feed/update/urn:li:activity:7469120089699717120/]
+
 X :[https://x.com/charisma1385/status/2063350573802406133]
 
 
